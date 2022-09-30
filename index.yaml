@@ -1,13 +1,13 @@
 apiVersion: v1
 entries:
-  virt-vnc:
+  virtvnc:
   - annotations:
       category: Infrastructure
     apiVersion: v1
     appVersion: "1.0"
-    created: "2022-09-30T03:05:47.609437975-04:00"
-    description: A Helm chart for virt-vnc deployment
-    digest: 8045c5112d69391d9fd1b3c6fc4a5b7d45910fcf653a70a4d776afd77854328c
+    created: "2022-09-30T03:29:32.307572632-04:00"
+    description: A Helm chart for virtvnc deployment
+    digest: 6617999dd8707b7cff8b86e0e3f3b344108a00f208be2526c280d8d27ebd3c86
     home: https://github.com/sonaproject/virtvnc
     keywords:
     - MEC
@@ -17,10 +17,10 @@ entries:
     maintainers:
     - email: gunine@sk.com
       name: Jian Li
-    name: virt-vnc
+    name: virtvnc
     sources:
     - https://github.com/sonaproject/virtvnc
     urls:
-    - https://sonaproject.github.io/virtvnc-helm/virt-vnc-0.1.0.tgz
+    - https://sonaproject.github.io/virtvnc-helm/virtvnc-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-30T03:05:47.608767601-04:00"
+generated: "2022-09-30T03:29:32.306948467-04:00"
